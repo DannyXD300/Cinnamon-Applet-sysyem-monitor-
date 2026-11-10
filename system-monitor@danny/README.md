@@ -1,24 +1,24 @@
 applet-monitor-de-de-sistema
-Un applet para cinnamon que muestra el uso de CPU, GPU, RAM, SWAP, VRAM de forma nativa y ligera. (Beta)
+A lightweight, native applet for Cinnamon that displays CPU, GPU, RAM, SWAP, and VRAM usage. (Beta)
 
-Esta en fase de prueva, actualmente funciona en Intel(parcial) y AMD, el estado de compatibilidad con GPU intel o Nvidia(no funcional, en desarrollo) esta inconcluso, si deseas ayudar a mejorar el applet, porfavor escribe tu modelo exacto de GPU(o si desea haga sus pruevas y envie los resultados y pruevas echas junto con su modelo de GPU para intentar añadir su compatibilidad) para iniciar las pruevas e intentar terminar la compatibilidad.
+It is currently in the testing phase. It works on AMD systems and partially on Intel systems. Compatibility with Intel or Nvidia GPUs is still a work in progress (currently non-functional). If you would like to help improve the applet, please provide your exact GPU model. You are also welcome to run your own tests and submit your findings—along with your GPU model—so that we can work on adding support for your hardware.
 
-Si quieres solucionar algun error del codigo de este applet, esta libre de hacerlo y si quiere contribuir con su desarrollo dejar su aporte en el repositorio para añadirlo al applet.
+If you would like to fix any bugs in the applet's code, you are free to do so; you may also contribute to its development by submitting your changes to the repository.
 
-apariencia del applet:
+Applet appearance:
 
-![alt text](.screenshots_applet/image.png)
+![alt text](.screenshots_applet/screenshot.png)
 
-configuracion del applet.
+applet configuration.
 
-![alt text](.screenshots_applet/image-2.png)
+![alt text](.screenshots_applet/1.png)
 
-![alt text](.screenshots_applet/image-3.png)
+![alt text](.screenshots_applet/2.png)
 
-![alt text](.screenshots_applet/image-4.png)
+![alt text](.screenshots_applet/3.png)
 
-![alt text](.screenshots_applet/image-5.png)
+![alt text](.screenshots_applet/4.png)
 
-![alt text](.screenshots_applet/image-6.png)
+![alt text](.screenshots_applet/5.png)
 
-![alt text](.screenshots_applet/image-7.png)
+![alt text](.screenshots_applet/6.png)
